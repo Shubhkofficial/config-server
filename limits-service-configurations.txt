@@ -1,2 +1,0 @@
-limits-service.max=20000
-limits-service.min=20
